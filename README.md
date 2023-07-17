@@ -1,2 +1,2 @@
 # Trugen.github.io
-Blogs and nagging
+Blogs and pieces of thoughts.
